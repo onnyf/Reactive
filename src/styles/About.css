@@ -1,6 +1,8 @@
 main{
     background-color: antiquewhite;
     padding: 50px;
+    display: flex;
+    align-items: center;
     justify-content: center;
     flex-direction: column;
     text-decoration: underline;
@@ -14,7 +16,7 @@ h2{
 }
 .about-paragraph{
     width: 500px;
-    font-size: 10pc;
+    font-size: 18px;
     text-decoration: none;
     color: black;
 }

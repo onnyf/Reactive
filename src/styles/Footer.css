@@ -6,6 +6,7 @@ footer{
     flex-direction: column;
     text-decoration: underline;
     color: red;
+    display: flex;
 
 }
 
@@ -15,4 +16,8 @@ footer{
     text-transform: none;
     color: black;
 
+}
+h3{
+    font-size: 40px;
+    
 }
